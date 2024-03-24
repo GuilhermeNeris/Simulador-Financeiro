@@ -1,4 +1,4 @@
-# Simulador-Financeiro🪙
+# Simulador-Financeiro💰
 
 #### Atividade da SPTech 📚
 
